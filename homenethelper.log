@@ -1,0 +1,158 @@
+2024/08/03 12:46:50 Successfully initialized capture on interface: wlp3s0
+2024/08/03 12:46:51 Successfully initialized capture on interface: lo
+2024/08/03 12:46:51 Successfully initialized capture on interface: enp4s0
+2024/08/03 12:46:51 Packet on wlp3s0 has no network layer
+2024/08/03 12:46:53 Packet on wlp3s0 has no network layer
+2024/08/03 12:46:57 Packet on wlp3s0 has no network layer
+2024/08/03 12:46:59 Packet on wlp3s0 has no network layer
+2024/08/03 12:47:01 Packet on wlp3s0 has no network layer
+2024/08/03 12:47:05 Packet on wlp3s0 has no network layer
+2024/08/03 12:47:07 Packet on wlp3s0 has no network layer
+2024/08/03 12:47:09 Packet on wlp3s0 has no network layer
+2024/08/03 12:47:11 Packet on wlp3s0 has no network layer
+2024/08/03 12:47:13 Packet on wlp3s0 has no network layer
+2024/08/03 12:47:15 Packet on wlp3s0 has no network layer
+2024/08/03 12:47:17 Packet on wlp3s0 has no network layer
+2024/08/03 12:47:19 Packet on wlp3s0 has no network layer
+2024/08/03 12:47:21 Packet on wlp3s0 has no network layer
+2024/08/03 12:47:23 Packet on wlp3s0 has no network layer
+2024/08/03 12:47:27 Packet on wlp3s0 has no network layer
+2024/08/03 12:47:29 Packet on wlp3s0 has no network layer
+2024/08/03 12:47:35 Packet on wlp3s0 has no network layer
+2024/08/03 12:47:37 Packet on wlp3s0 has no network layer
+2024/08/03 12:47:39 Packet on wlp3s0 has no network layer
+2024/08/03 12:47:41 Packet on wlp3s0 has no network layer
+2024/08/03 12:47:43 Packet on wlp3s0 has no network layer
+2024/08/03 12:47:49 Packet on wlp3s0 has no network layer
+2024/08/03 12:47:55 Packet on wlp3s0 has no network layer
+2024/08/03 12:47:57 Packet on wlp3s0 has no network layer
+2024/08/03 12:47:59 Packet on wlp3s0 has no network layer
+2024/08/03 12:48:01 Packet on wlp3s0 has no network layer
+2024/08/03 12:48:03 Packet on wlp3s0 has no network layer
+2024/08/03 12:48:05 Packet on wlp3s0 has no network layer
+2024/08/03 12:48:07 Packet on wlp3s0 has no network layer
+2024/08/03 12:48:09 Packet on wlp3s0 has no network layer
+2024/08/03 12:48:11 Packet on wlp3s0 has no network layer
+2024/08/03 12:48:13 Packet on wlp3s0 has no network layer
+2024/08/03 12:48:15 Packet on wlp3s0 has no network layer
+2024/08/03 12:48:17 Packet on wlp3s0 has no network layer
+2024/08/03 12:48:19 Packet on wlp3s0 has no network layer
+2024/08/03 12:48:21 Packet on wlp3s0 has no network layer
+2024/08/03 12:48:23 Unknown protocol in packet: PACKET: 60 bytes, wire length 60 cap length 60 @ 2024-08-03 12:48:23.688544 +0100 WEST
+- Layer 1 (14 bytes) = Ethernet	{Contents=[..14..] Payload=[..46..] SrcMAC=cc:19:a8:4e:da:1f DstMAC=80:91:33:1e:37:d5 EthernetType=IPv4 Length=0}
+- Layer 2 (24 bytes) = IPv4	{Contents=[..24..] Payload=[..8..] Version=4 IHL=6 TOS=0 Length=32 Id=39085 Flags=DF FragOffset=0 TTL=1 Protocol=IGMP Checksum=43394 SrcIP=192.168.1.254 DstIP=224.0.0.1 Options=[IPv4Option(148:[0 0])] Padding=[]}
+- Layer 3 (00 bytes) = IGMP	{Contents=[] Payload=[] Type=IGMP Membership Query MaxResponseTime=1s Checksum=61173 GroupAddress=0.0.0.0 Version=2}
+2024/08/03 12:48:23 Unknown protocol in packet: PACKET: 46 bytes, wire length 46 cap length 46 @ 2024-08-03 12:48:23.820305 +0100 WEST
+- Layer 1 (14 bytes) = Ethernet	{Contents=[..14..] Payload=[..32..] SrcMAC=80:91:33:1e:37:d5 DstMAC=01:00:5e:00:00:fb EthernetType=IPv4 Length=0}
+- Layer 2 (24 bytes) = IPv4	{Contents=[..24..] Payload=[..8..] Version=4 IHL=6 TOS=192 Length=32 Id=0 Flags=DF FragOffset=0 TTL=1 Protocol=IGMP Checksum=16673 SrcIP=192.168.1.83 DstIP=224.0.0.251 Options=[IPv4Option(148:[0 0])] Padding=[]}
+- Layer 3 (00 bytes) = IGMP	{Contents=[] Payload=[] Type=IGMPv2 Membership Report MaxResponseTime=0s Checksum=2308 GroupAddress=224.0.0.251 Version=2}
+2024/08/03 12:48:23 Packet on wlp3s0 has no network layer
+2024/08/03 12:48:25 Packet on wlp3s0 has no network layer
+2024/08/03 12:48:27 Packet on wlp3s0 has no network layer
+2024/08/03 12:48:29 Packet on wlp3s0 has no network layer
+2024/08/03 12:48:31 Packet on wlp3s0 has no network layer
+2024/08/03 12:48:35 Packet on wlp3s0 has no network layer
+2024/08/03 12:48:39 Packet on wlp3s0 has no network layer
+2024/08/03 12:48:41 Packet on wlp3s0 has no network layer
+2024/08/03 12:48:43 Packet on wlp3s0 has no network layer
+2024/08/03 12:51:47 Successfully initialized capture on interface: wlp3s0
+2024/08/03 12:51:47 Successfully initialized capture on interface: lo
+2024/08/03 12:51:47 Successfully initialized capture on interface: enp4s0
+2024/08/03 12:51:49 Packet on wlp3s0 has no network layer
+2024/08/03 12:51:51 Packet on wlp3s0 has no network layer
+2024/08/03 12:51:53 Packet on wlp3s0 has no network layer
+2024/08/03 12:51:55 Packet on wlp3s0 has no network layer
+2024/08/03 12:51:57 Packet on wlp3s0 has no network layer
+2024/08/03 12:51:59 Packet on wlp3s0 has no network layer
+2024/08/03 12:52:03 Packet on wlp3s0 has no network layer
+2024/08/03 12:52:07 Packet on wlp3s0 has no network layer
+2024/08/03 12:52:09 Packet on wlp3s0 has no network layer
+2024/08/03 12:52:11 Packet on wlp3s0 has no network layer
+2024/08/03 12:52:13 Packet on wlp3s0 has no network layer
+2024/08/03 12:52:15 Packet on wlp3s0 has no network layer
+2024/08/03 12:52:17 Packet on wlp3s0 has no network layer
+2024/08/03 12:52:19 Packet on wlp3s0 has no network layer
+2024/08/03 12:52:21 Packet on wlp3s0 has no network layer
+2024/08/03 12:52:23 Packet on wlp3s0 has no network layer
+2024/08/03 12:52:25 Packet on wlp3s0 has no network layer
+2024/08/03 12:52:27 Packet on wlp3s0 has no network layer
+2024/08/03 12:52:33 Unknown protocol in packet: PACKET: 60 bytes, wire length 60 cap length 60 @ 2024-08-03 12:52:33.646027 +0100 WEST
+- Layer 1 (14 bytes) = Ethernet	{Contents=[..14..] Payload=[..46..] SrcMAC=cc:19:a8:4e:da:1f DstMAC=80:91:33:1e:37:d5 EthernetType=IPv4 Length=0}
+- Layer 2 (24 bytes) = IPv4	{Contents=[..24..] Payload=[..8..] Version=4 IHL=6 TOS=0 Length=32 Id=40623 Flags=DF FragOffset=0 TTL=1 Protocol=IGMP Checksum=41856 SrcIP=192.168.1.254 DstIP=224.0.0.1 Options=[IPv4Option(148:[0 0])] Padding=[]}
+- Layer 3 (00 bytes) = IGMP	{Contents=[] Payload=[] Type=IGMP Membership Query MaxResponseTime=1s Checksum=61173 GroupAddress=0.0.0.0 Version=2}
+2024/08/03 12:52:34 Unknown protocol in packet: PACKET: 46 bytes, wire length 46 cap length 46 @ 2024-08-03 12:52:34.308316 +0100 WEST
+- Layer 1 (14 bytes) = Ethernet	{Contents=[..14..] Payload=[..32..] SrcMAC=80:91:33:1e:37:d5 DstMAC=01:00:5e:00:00:fb EthernetType=IPv4 Length=0}
+- Layer 2 (24 bytes) = IPv4	{Contents=[..24..] Payload=[..8..] Version=4 IHL=6 TOS=192 Length=32 Id=0 Flags=DF FragOffset=0 TTL=1 Protocol=IGMP Checksum=16673 SrcIP=192.168.1.83 DstIP=224.0.0.251 Options=[IPv4Option(148:[0 0])] Padding=[]}
+- Layer 3 (00 bytes) = IGMP	{Contents=[] Payload=[] Type=IGMPv2 Membership Report MaxResponseTime=0s Checksum=2308 GroupAddress=224.0.0.251 Version=2}
+2024/08/03 12:52:35 Packet on wlp3s0 has no network layer
+2024/08/03 12:52:37 Packet on wlp3s0 has no network layer
+2024/08/03 12:52:39 Packet on wlp3s0 has no network layer
+2024/08/03 12:52:43 Packet on wlp3s0 has no network layer
+2024/08/03 12:52:45 Packet on wlp3s0 has no network layer
+2024/08/03 12:52:51 Packet on wlp3s0 has no network layer
+2024/08/03 12:52:53 Packet on wlp3s0 has no network layer
+2024/08/03 12:52:55 Packet on wlp3s0 has no network layer
+2024/08/03 12:52:57 Packet on wlp3s0 has no network layer
+2024/08/03 12:52:59 Packet on wlp3s0 has no network layer
+2024/08/03 12:53:01 Packet on wlp3s0 has no network layer
+2024/08/03 12:53:03 Packet on wlp3s0 has no network layer
+2024/08/03 12:53:05 Packet on wlp3s0 has no network layer
+2024/08/03 12:53:07 Packet on wlp3s0 has no network layer
+2024/08/03 12:53:09 Packet on wlp3s0 has no network layer
+2024/08/03 12:53:11 Packet on wlp3s0 has no network layer
+2024/08/03 12:53:13 Packet on wlp3s0 has no network layer
+2024/08/03 12:53:15 Packet on wlp3s0 has no network layer
+2024/08/03 12:53:17 Packet on wlp3s0 has no network layer
+2024/08/03 12:53:19 Packet on wlp3s0 has no network layer
+2024/08/03 12:53:21 Packet on wlp3s0 has no network layer
+2024/08/03 12:53:23 Packet on wlp3s0 has no network layer
+2024/08/03 12:53:27 Packet on wlp3s0 has no network layer
+2024/08/03 12:53:29 Packet on wlp3s0 has no network layer
+2024/08/03 12:53:31 Packet on wlp3s0 has no network layer
+2024/08/03 12:53:33 Packet on wlp3s0 has no network layer
+2024/08/03 12:53:35 Packet on wlp3s0 has no network layer
+2024/08/03 12:53:37 Packet on wlp3s0 has no network layer
+2024/08/03 12:53:43 Packet on wlp3s0 has no network layer
+2024/08/03 12:53:45 Packet on wlp3s0 has no network layer
+2024/08/03 12:53:47 Packet on wlp3s0 has no network layer
+2024/08/03 12:53:49 Packet on wlp3s0 has no network layer
+2024/08/03 12:53:51 Packet on wlp3s0 has no network layer
+2024/08/03 12:53:53 Packet on wlp3s0 has no network layer
+2024/08/03 12:53:55 Packet on wlp3s0 has no network layer
+2024/08/03 12:53:57 Packet on wlp3s0 has no network layer
+2024/08/03 12:53:59 Packet on wlp3s0 has no network layer
+2024/08/03 12:54:03 Packet on wlp3s0 has no network layer
+2024/08/03 12:54:05 Packet on wlp3s0 has no network layer
+2024/08/03 12:54:07 Packet on wlp3s0 has no network layer
+2024/08/03 12:54:09 Packet on wlp3s0 has no network layer
+2024/08/03 12:54:11 Packet on wlp3s0 has no network layer
+2024/08/03 12:54:13 Packet on wlp3s0 has no network layer
+2024/08/03 12:54:15 Packet on wlp3s0 has no network layer
+2024/08/03 12:54:17 Packet on wlp3s0 has no network layer
+2024/08/03 12:54:21 Packet on wlp3s0 has no network layer
+2024/08/03 12:54:23 Packet on wlp3s0 has no network layer
+2024/08/03 12:57:37 Successfully initialized capture on interface: wlp3s0
+2024/08/03 12:57:37 Successfully initialized capture on interface: lo
+2024/08/03 12:57:37 Successfully initialized capture on interface: enp4s0
+2024/08/03 12:57:41 Packet on wlp3s0 has no network layer
+2024/08/03 12:57:43 Packet on wlp3s0 has no network layer
+2024/08/03 12:57:45 Packet on wlp3s0 has no network layer
+2024/08/03 12:57:47 Packet on wlp3s0 has no network layer
+2024/08/03 12:57:49 Packet on wlp3s0 has no network layer
+2024/08/03 12:57:51 Packet on wlp3s0 has no network layer
+2024/08/03 12:57:53 Packet on wlp3s0 has no network layer
+2024/08/03 12:57:55 Packet on wlp3s0 has no network layer
+2024/08/03 12:57:57 Packet on wlp3s0 has no network layer
+2024/08/03 12:57:59 Packet on wlp3s0 has no network layer
+2024/08/03 12:58:01 Packet on wlp3s0 has no network layer
+2024/08/03 12:58:03 Packet on wlp3s0 has no network layer
+2024/08/03 12:58:05 Packet on wlp3s0 has no network layer
+2024/08/03 12:58:07 Packet on wlp3s0 has no network layer
+2024/08/03 12:58:09 Packet on wlp3s0 has no network layer
+2024/08/03 12:58:13 Packet on wlp3s0 has no network layer
+2024/08/03 12:58:15 Packet on wlp3s0 has no network layer
+2024/08/03 12:58:17 Packet on wlp3s0 has no network layer
+2024/08/03 12:58:19 Packet on wlp3s0 has no network layer
+2024/08/03 12:58:21 Packet on wlp3s0 has no network layer
+2024/08/03 12:58:23 Packet on wlp3s0 has no network layer
+2024/08/03 12:58:29 Packet on wlp3s0 has no network layer
